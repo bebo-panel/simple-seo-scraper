@@ -1,1 +1,1 @@
-# simple-web-scraper
+This program is a web scraper designed for keyword search on web pages. Its really simple and easy to use, it allows users to take some idea for writing conotents and searching kw based on a specified URL.
